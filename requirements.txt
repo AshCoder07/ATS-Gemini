@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+google-generativeai
+Python-IO
+pybase64
+pillow
+pymupdf
